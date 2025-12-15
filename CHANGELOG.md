@@ -6,6 +6,12 @@ All changes to this project will be documented here with automatic numbering.
 
 ---
 
+---
+
+## 03- Add commit message validation
+- Implemented `.githooks/commit-msg` to enforce "XX-" numbering prefix.
+- Configured project to use local git hooks.
+
 ## 02- Add simple n8n workflow
 - Created `workflows/02-simple-workflow.json` with a basic Start -> Function node structure.
 

@@ -8,6 +8,12 @@ All changes to this project will be documented here with automatic numbering.
 
 ---
 
+---
+
+## 04- Remove Amazon Q configuration
+- Removed `.amazonq` directory and related configuration.
+- Cleaned up tool integrations.
+
 ## 03- Add commit message validation
 - Implemented `.githooks/commit-msg` to enforce "XX-" numbering prefix.
 - Configured project to use local git hooks.
